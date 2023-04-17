@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\Conversao\Conversao\bin\Debug\Conversao.exe.config
+C:\Users\Gabriel\source\repos\Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Users\Gabriel\source\repos\Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Users\Gabriel\source\repos\Conversao\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Conversao\Conversao\obj\Debug\Conversao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\Conversao\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Users\Gabriel\source\repos\Conversao\Conversao\obj\Debug\Conversao.pdb
