@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\Gabriel\source\repos\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\Gabriel\source\repos\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\Gabriel\source\repos\Operadores\Operadores\obj\Debug\Operadores.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Operadores\Operadores\obj\Debug\Operadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\Gabriel\source\repos\Operadores\Operadores\obj\Debug\Operadores.pdb
