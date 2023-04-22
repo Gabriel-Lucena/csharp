@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+C:\Users\Gabriel\source\repos\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb

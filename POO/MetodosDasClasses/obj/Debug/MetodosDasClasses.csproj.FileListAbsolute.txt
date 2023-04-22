@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe.config
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.exe
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\bin\Debug\MetodosDasClasses.pdb
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.exe
+C:\Users\Gabriel\source\repos\POO\MetodosDasClasses\obj\Debug\MetodosDasClasses.pdb
