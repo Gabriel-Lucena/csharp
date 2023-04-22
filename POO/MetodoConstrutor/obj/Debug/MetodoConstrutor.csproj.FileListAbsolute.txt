@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe.config
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.exe
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\bin\Debug\MetodoConstrutor.pdb
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.exe
+C:\Users\Gabriel\source\repos\POO\MetodoConstrutor\obj\Debug\MetodoConstrutor.pdb
