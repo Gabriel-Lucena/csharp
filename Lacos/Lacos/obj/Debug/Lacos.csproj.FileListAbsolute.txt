@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\Lacos\Lacos\bin\Debug\Lacos.exe.config
+C:\Users\Gabriel\source\repos\Lacos\Lacos\bin\Debug\Lacos.exe
+C:\Users\Gabriel\source\repos\Lacos\Lacos\bin\Debug\Lacos.pdb
+C:\Users\Gabriel\source\repos\Lacos\Lacos\obj\Debug\Lacos.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Lacos\Lacos\obj\Debug\Lacos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\Lacos\Lacos\obj\Debug\Lacos.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Lacos\Lacos\obj\Debug\Lacos.exe
+C:\Users\Gabriel\source\repos\Lacos\Lacos\obj\Debug\Lacos.pdb
