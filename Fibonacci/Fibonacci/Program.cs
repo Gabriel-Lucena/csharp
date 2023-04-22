@@ -10,17 +10,15 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
-
             int valor,ant2 = 0, ant1 = 1, aux, aux2, quantidade;
 
             Console.Write("Digite a quantidade de números da sequência: ");
             quantidade =  int.Parse(Console.ReadLine());
 
-
-
             for (int i = 0; i < quantidade; i++)
             {
-                    valor = ant2 + ant1;
+                valor = ant2 + ant1;
+
                 if (i == 0)
                 {
                     Console.Write(ant2 + ", ");
@@ -38,7 +36,7 @@ namespace Fibonacci
                     ant2 = aux2;
                     
 
-                    if ( quantidade - 1 == i)
+                    if (quantidade - 1 == i)
                     {
                         Console.Write(valor);
                     } else
