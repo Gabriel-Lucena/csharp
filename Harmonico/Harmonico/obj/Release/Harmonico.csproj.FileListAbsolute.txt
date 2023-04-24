@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\bin\Release\Harmonico.exe.config
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\bin\Release\Harmonico.exe
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\bin\Release\Harmonico.pdb
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\obj\Release\Harmonico.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\obj\Release\Harmonico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\obj\Release\Harmonico.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\obj\Release\Harmonico.exe
+C:\Users\Gabriel\source\repos\Harmonico\Harmonico\obj\Release\Harmonico.pdb
