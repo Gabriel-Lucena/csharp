@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\POO\Estaticas\bin\Debug\Estaticas.exe.config
+C:\Users\Gabriel\source\repos\POO\Estaticas\bin\Debug\Estaticas.exe
+C:\Users\Gabriel\source\repos\POO\Estaticas\bin\Debug\Estaticas.pdb
+C:\Users\Gabriel\source\repos\POO\Estaticas\obj\Debug\Estaticas.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\POO\Estaticas\obj\Debug\Estaticas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\POO\Estaticas\obj\Debug\Estaticas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\POO\Estaticas\obj\Debug\Estaticas.exe
+C:\Users\Gabriel\source\repos\POO\Estaticas\obj\Debug\Estaticas.pdb
