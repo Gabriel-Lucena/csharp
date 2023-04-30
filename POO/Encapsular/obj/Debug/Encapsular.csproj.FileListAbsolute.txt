@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\POO\Encapsular\bin\Debug\Encapsular.exe.config
+C:\Users\Gabriel\source\repos\POO\Encapsular\bin\Debug\Encapsular.exe
+C:\Users\Gabriel\source\repos\POO\Encapsular\bin\Debug\Encapsular.pdb
+C:\Users\Gabriel\source\repos\POO\Encapsular\obj\Debug\Encapsular.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\POO\Encapsular\obj\Debug\Encapsular.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\POO\Encapsular\obj\Debug\Encapsular.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\POO\Encapsular\obj\Debug\Encapsular.exe
+C:\Users\Gabriel\source\repos\POO\Encapsular\obj\Debug\Encapsular.pdb
