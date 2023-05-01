@@ -3,20 +3,14 @@ using System;
 
 namespace Heranca
 {
-    class Veiculo
+    abstract class Veiculo
     {
         public string Cor { get; set; }
         public string Marca { get; set; }
 
-        public void Acelerar()
-        {
-            Console.WriteLine("Acelerou!");
-        }
+        public abstract void Acelerar(); // As classes que herdam devem implementar esse método
 
-        public void Parar()
-        {
-            Console.WriteLine("Parou!");
-        }
+        public abstract void Parar();
 
     }
 }

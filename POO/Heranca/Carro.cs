@@ -12,6 +12,16 @@ namespace Heranca
             Console.WriteLine("Ligou!");
         }
 
+        public override void Acelerar()
+        {
+            Console.WriteLine("Acelerou o carro!");
+        }
+
+        public override void Parar()
+        {
+            Console.WriteLine("Parou o carro!");
+        }
+
 
     }
 }
