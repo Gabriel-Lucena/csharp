@@ -2,8 +2,8 @@
 
 namespace Heranca
 {
-    class Bicicleta : Veiculo
-    { 
+    sealed class Bicicleta : Veiculo
+    {
 
         public void Pedalar()
         {
@@ -20,5 +20,5 @@ namespace Heranca
             Console.WriteLine("Parou a bicicleta!");
         }
 
-}
+    }
 }
