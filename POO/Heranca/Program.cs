@@ -6,22 +6,44 @@ namespace Heranca
     {
         static void Main(string[] args)
         {
-            Carro carro = new Carro();
-            Bicicleta bicicleta = new Bicicleta();
-            //Veiculo veiculo = new Veiculo(); // Não se pode instanciar objetos da classe
+            #region Parte 1
 
-            //carro.LigarMotor();
-            //bicicleta.Pedalar();
+            //Carro carro = new Carro();
+            //Bicicleta bicicleta = new Bicicleta();
+            ////Veiculo veiculo = new Veiculo(); // Não se pode instanciar objetos da classe
 
-            //carro.Cor = "Alaranjado";
-            //bicicleta.Cor = "Preta";
+            ////carro.LigarMotor();
+            ////bicicleta.Pedalar();
 
-            //Console.WriteLine(carro.Cor);
-            //Console.WriteLine(bicicleta.Cor);
+            ////carro.Cor = "Alaranjado";
+            ////bicicleta.Cor = "Preta";
 
-            carro.Acelerar();
-            bicicleta.Acelerar();
+            ////Console.WriteLine(carro.Cor);
+            ////Console.WriteLine(bicicleta.Cor);
 
+            //carro.Acelerar();
+            //bicicleta.Acelerar();
+
+            #endregion
+
+            Humano humano = new Humano();
+            Pessoa pessoa = new Pessoa();
+            Homem homem = new Homem();
+
+            Console.WriteLine("\nHumano");
+
+            humano.Olhos();
+            humano.Cabelos();
+            
+            Console.WriteLine("\nPessoa");
+
+            pessoa.Olhos();
+            pessoa.Cabelos();
+
+            Console.WriteLine("\nHomem");
+
+            homem.Olhos();
+            homem.Cabelos();
 
             Console.ReadKey();
         }
