@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Gabriel\source\repos\POO\Polimorfismo\obj\Debug\Polimorfismo.pdb
