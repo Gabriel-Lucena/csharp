@@ -1,0 +1,8 @@
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\bin\Release\MetodoMain.exe.config
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\bin\Release\MetodoMain.exe
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\bin\Release\MetodoMain.pdb
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\obj\Release\MetodoMain.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\obj\Release\MetodoMain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\obj\Release\MetodoMain.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\obj\Release\MetodoMain.exe
+C:\Users\Gabriel\source\repos\MetodoMain\MetodoMain\obj\Release\MetodoMain.pdb
